@@ -11,5 +11,33 @@ Version: 0.1.0
 /* test */
 
 p {
-    color: #355e3b;
+    color: white;
+}
+
+.social-navigation a {
+    background-color: #595630;
+}
+
+h2.widget-title {
+         color: #595630;
+}
+
+.site-info a {
+    display: none;
+}
+
+.site-content-contain {
+    background-color: black;
+}
+
+a {
+    color: white;
+}
+
+h2.page-title {
+    display: none;
+}
+
+.entry-title a {
+    color: white;
 }
